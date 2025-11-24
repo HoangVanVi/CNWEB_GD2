@@ -1,0 +1,5 @@
+Request URL: https://www.tlu.edu.vn/
+Request Method: GET
+Status Code: 200
+
+Câu hỏi: Tại sao khi tải một trang web, trình duyệt lại gửi hàng chục yêu cầu khác nhau như .css, .js, .jpg, thay vì chỉ một yêu cầu duy nhất đến địa chỉ chính?
